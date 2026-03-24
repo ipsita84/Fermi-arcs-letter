@@ -1,0 +1,6 @@
+Dear Editor,
+
+This is a pioneering work to derive the generic equations which explicitly lead to the expressions for the surface states in a surface Brillouin zone of a 3d Hamiltonian. In this letter, we have used it to characterise Fermi arcs, which are the surface states arising in 3d topological semimetals hosting nodal points. Taking diverse examples, spanning twofold to multifold ones, linear-in-momentum to quadratic- and cubic-in-momentum ones, and isotropic to anisotropic ones, we have demonstrated how the derived states correctly reflect the Chern numbers of the associated nodes. In particular, we believe that such an analytical study of generic nodes has not been taken upon earlier.
+
+Sincerely,
+Ipsita Mandal
